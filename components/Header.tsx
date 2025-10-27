@@ -7,7 +7,7 @@ export default function Header() {
 		<header className="w-full bg-red-600 py-6 shadow-md">
 			<div className="mx-auto max-w-5xl flex items-center justify-between px-6">
 				<Link href="/" className="text-2xl font-bold text-white">
-					🍜 ຮ້ານອາຫານ
+					🍜 ຮ້ານອາຫານ khamsone
 				</Link>
 				<nav className="space-x-6 text-white text-lg">
 					<Link href="/" className="hover:text-yellow-300">
